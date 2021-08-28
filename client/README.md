@@ -2,11 +2,17 @@
 ## Project brief
 I did alot of this project with my tutor as I was not familiar with graphql. Unfortunately my tutor told me he wasnt that well informed either. However he did his best to help me with this assignment. I did set up everything correctly according to my tutor, however there was a error that I am not understanding how to fix all that well, for some reason even though I installed it using npm i it keeps saying cannot find module graphql. I have had the same issue with my group project, however in my group project this error was very fatal. I dont know how to properly resolve it because the errors are coming from the node modules and I dont think I should touch any of those.
 
+There is also an error when running the login and signup logic locally. I for some reason keep getting a proxy server build fail error. I dont know why or how and I dont know how to fix it either.
+
+Lastly I keep trying to deploy to heroku, however regardless of what I do I keep getting an error.
+Here is the website URL
+https://glacial-eyrie-22620.herokuapp.com/
+
 ## Screenshot/gif
 
 ![Local host screenshot](./Assets/localHostVer.gif)
 
-
+![heroku err](./Assets/herokuErr.jpg)
 ## Instructions
 Your Challenge this week is emblematic of the fact that most modern websites are driven by two things: data and user demands. This shouldn't come as a surprise, as the ability to personalize user data is the cornerstone of real-world web development today. And as user demands evolve, applications need to be more performant.
 
