@@ -1,5 +1,13 @@
 # 21 MERN: Book Search Engine
+## Project brief
+I did alot of this project with my tutor as I was not familiar with graphql. Unfortunately my tutor told me he wasnt that well informed either. However he did his best to help me with this assignment. I did set up everything correctly according to my tutor, however there was a error that I am not understanding how to fix all that well, for some reason even though I installed it using npm i it keeps saying cannot find module graphql. I have had the same issue with my group project, however in my group project this error was very fatal. I dont know how to properly resolve it because the errors are coming from the node modules and I dont think I should touch any of those.
 
+## Screenshot/gif
+
+![Local host screenshot](./Assets/localHostVer.gif)
+
+
+## Instructions
 Your Challenge this week is emblematic of the fact that most modern websites are driven by two things: data and user demands. This shouldn't come as a surprise, as the ability to personalize user data is the cornerstone of real-world web development today. And as user demands evolve, applications need to be more performant.
 
 This week, you’ll take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end. 
